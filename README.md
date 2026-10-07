@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on responsive websites, portfolio designs, and automation projects.<br>👯 I’m looking to collaborate on web development, cyber security, and creative digital projects.<br>🤝 I’m looking for help with advanced ethical hacking, AI tools, and real-world security research.<br>🌱 I’m currently learning Python, JavaScript, network security, and 3D web animation.<br>💬 Ask me about website making, coding, photo editing, social media handling, and cyber security basics.<br>⚡ Fun fact: I like turning simple ideas into clean, professional digital experiences.<br>
+# About Me:
+🔭 I’m currently working on responsive websites, portfolio designs, and automation projects.<br>🙌 I’m looking to collaborate on web development, cyber security, and creative digital projects.<br>🤝 I’m looking for help with advanced ethical hacking, AI tools, and real-world security research.<br>🌱 I’m currently learning Python, JavaScript, network security, and 3D web animation.<br>💬 Ask me about website making, coding, photo editing, social media handling, and cyber security basics.<br>⚡ Fun fact: I like turning simple ideas into clean, professional digital experiences.<br>
 
 
 ## 🌐 Socials:
